@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8283394071094649587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -7570222291594609846, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: health
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: -7570222291594609846, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: scoreValue
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: -5438740384021178285, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_Radius
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: -5438740384021178285, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5438740384021178285, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.11
+      objectReference: {fileID: 0}
+    - target: {fileID: -2049696241596345493, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: damage
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 146817097781589387, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6419412508157450918, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_Name
+      value: rockes3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544968171516341586, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1888456583092694709, guid: 30a107c819df4e141a913ddc794e68c3, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d9781658b2765c94eb2bfbf3e54f0b64, type: 3}
